@@ -1,4 +1,11 @@
-[![](https://github-readme-stats.vercel.app/api?username=ruben-nogueira&theme=dracula&show_icons=true&count_private=true)](#dsa%00%0asa"<)
+### Hi there 👋
 
-<a href="#" onload=""><img src="https://github-readme-stats.vercel.app/api?username=ruben-nogueira&theme=dracula&show_icons=true&count_private=true"></a>
+> 💼 Working on WebTales
+>
+> 🎓 Computer Engineer student
 
+`PHP` `Javascript` `Python` `Java` `C#` `.NET` `C` `Java EE` `Android` `Laravel` `Node.js` `Bootstrap` `Vue.js` `WebSockets` `Restful APIs` `SQL` `Scrum` `Tests` `App Sniffing` `Reverse Engineering` `Wannabe Security Specialist`
+
+Based in Leiria
+
+<a href="https://www.rubnogueira.com" target="_blank">https://www.rubnogueira.com</a>
